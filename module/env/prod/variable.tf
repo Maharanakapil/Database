@@ -1,0 +1,7 @@
+variable "rgm" {
+
+}
+
+variable "dbm" {
+
+}
